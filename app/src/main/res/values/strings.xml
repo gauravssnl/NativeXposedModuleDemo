@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NativeXposedHookDemo</string>
+    <string name="xposed_description">Native Xposed Hook Demo</string>
+    <string-array name="scope">
+        <item>com.gauravssnl.hellojni</item>
+    </string-array>
+</resources>
